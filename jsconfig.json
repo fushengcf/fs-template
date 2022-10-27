@@ -1,0 +1,13 @@
+{
+	"compilerOptions": {
+		"module": "commonjs",
+		"target": "ES2015",
+		"checkJs": true,  /* Typecheck .js files. */
+		"lib": [
+			"ES2015"
+		]
+	},
+	"exclude": [
+		"node_modules"
+	]
+}
